@@ -1,0 +1,56 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#logo {
+    float: right;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.logo {
+    margin: 10px 20px;
+}
+.nach {
+    border: 2px solid rgb(153, 153, 255);
+    margin: 0px 10px;
+    padding: 5px;
+}
+textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+#blue {
+    color: rgb(57, 57, 255);
+}
+.black {
+   font-weight: bold;
+   width: 250px;
+}
+.ser {
+    color: gray;
+    font-size: 12px;
+}
+.cur {
+    font-style: italic;
+    font-size: 12px;
+}
+#mesto {
+    width: 100%;
+    margin-bottom: 10px;
+}
+#p {
+    float: right;
+}
+input[type="submit"]{
+     width: 100%;
+}
+td {
+    vertical-align: top;
+}
+button {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+
